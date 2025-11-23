@@ -1,5 +1,9 @@
 /*  your css code here. If applicable */
 .container{
+	border:2px solid white;
+	border-radius:10px;
+	padding:20px;
+	margin:20px;
 	display:flex;
 	justify-content:start;
 	align-items:center;
