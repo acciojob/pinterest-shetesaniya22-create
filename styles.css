@@ -1,11 +1,14 @@
 /*  your css code here. If applicable */
-.container{
+body{
+	border:1px solid white;
+}
+.hero{
 	border:2px solid white;
 	border-radius:10px;
 	padding:20px;
 	margin:20px;
 	display:flex;
-	justify-content:start;
+	justify-content:space-between;
 	align-items:center;
 	
 }
